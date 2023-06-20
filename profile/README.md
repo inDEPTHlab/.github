@@ -9,3 +9,9 @@ Neumann, A., Pingault, JB., Felix, J.F. et al. Epigenome-wide contributions to i
 
 ## Member repositories
 [Alexander Neumann](https://github.com/aneumann-science/)
+[Serena Defina](https://github.com/orgs/inDEPTHlab/people/SereDef)
+[Rosa Mulder](https://github.com/rosamulder)
+[Tim Finke](https://github.com/TimFinke)
+[Isabel Schuurmans](https://github.com/isabelschuurmans)
+[Charlotte Cecil](https://github.com/CAMCecil)
+
