@@ -7,6 +7,10 @@ Most scripts are specific to the Generation R study, but some packages and scrip
 
 Neumann, A., Pingault, JB., Felix, J.F. et al. Epigenome-wide contributions to individual differences in childhood phenotypes: a GREML approach. Clin Epigenet 14, 53 (2022). https://doi.org/10.1186/s13148-022-01268-w
 
+[Epigenetic Timing Effects](https://github.com/aneumann-science/epigenetic_timing_effects)
+
+Neumann, A., Sammallahti, S., Cosin-Tomas, M., Reese, S. E., Suderman, M., Alemany, S., ... & Cecil, C. (2024). Epigenetic timing effects on child developmental outcomes: A longitudinal meta-regression of findings from the Pregnancy And Childhood Epigenetics Consortium. medRxiv, 2024-02. https://doi.org/10.1101/2024.02.29.24303506
+
 ## Member repositories
 [Alexander Neumann](https://github.com/aneumann-science/)  
 
